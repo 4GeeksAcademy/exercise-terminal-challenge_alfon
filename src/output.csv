@@ -1,0 +1,18 @@
+                            Size    Last mod  Name
+total 1056
+-rw-rw-rw-  1 vscode root   2649 Oct 23 18:33 README.es.md
+-rw-rw-rw-  1 vscode root   2241 Oct 23 18:33 README.md
+-rw-rw-rw-  1 vscode root      0 Oct 23 18:33 Untitled
+drwxrwxrwx+ 2 vscode root   4096 Oct 23 18:33 assets
+-rw-rw-rw-  1 vscode root    401 Oct 23 18:33 index.html
+-rw-rw-rw-  1 vscode root    823 Oct 23 18:33 index.js
+-rw-rw-rw-  1 vscode root    514 Oct 23 18:33 learn.json
+-rw-rw-rw-  1 vscode root 874646 Oct 23 18:33 package-lock.json
+-rw-rw-rw-  1 vscode root   1903 Oct 23 18:33 package.json
+-rw-rw-rw-  1 vscode root 148033 Oct 23 18:33 preview.png
+-rw-rw-rw-  1 vscode root    270 Oct 23 18:33 requirements.txt
+-rw-rw-rw-  1 vscode root    785 Oct 23 18:33 server.js
+drwxrwxrwx+ 2 vscode root   4096 Oct 23 18:33 slides
+drwxrwxrwx+ 2 vscode root   4096 Oct 24 08:01 src
+drwxrwxrwx+ 6 vscode root   4096 Oct 23 18:33 thecmdchallenge
+-rw-rw-rw-  1 vscode root   1325 Oct 23 18:33 webpack.config.js
